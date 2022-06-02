@@ -1,0 +1,21 @@
+# Following are the some format specifiers
+
+%d :- signed integer in decimal format
+
+%c :- character
+
+%f :- float data
+
+%u :- unsigned integer
+
+%x :- hexa decimal data
+
+%o :- octal data
+
+%p :- pointer representation
+
+%lf :- double
+
+%Lf :- long double
+
+%s :- string
